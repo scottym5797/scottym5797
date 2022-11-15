@@ -20,6 +20,9 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scottym5797&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottym5797)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/scottym5797">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=scottym5797&amp;show_icons=true&amp;theme=radical" height="160"  witdh="480" />
+</a>
+<a href="https://github.com/scottym5797">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=scottym5797&theme=radical" height="160" witdh="480" />
+</a>
