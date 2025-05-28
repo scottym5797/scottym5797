@@ -25,7 +25,7 @@ const scott = {
 
 I love meeting new people and chatting about technology, community impact, or just life in general. Feel free to reach out!
 
-- 🌐 **Website**: [scottmartin.dev](https://your-portfolio-url.com)
+- 🌐 **Website**: [scottmartin.tech](https://scottmartin.tech)
 - 💼 **LinkedIn**: [scott-martin-tech](https://www.linkedin.com/in/scott-martin-tech/)
 - 🐦 **Twitter**: [@scottmrty](https://twitter.com/scottmrty)
 - 📧 **Email**: scott.martin5797@gmail.com
