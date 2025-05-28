@@ -8,14 +8,6 @@ I'm passionate about building technology that breaks down barriers and creates o
 
 - 💰 **Co-founding [Decaf](https://www.decaf.so)** - A global fintech platform operating in 180+ countries, making cross-border payments accessible to everyone
 - 🌍 **Curating [Global Shapers Mexico City Hub](https://www.globalshapers.org/hubs/mexico-city-hub)** - Leading a community of young changemakers tackling global challenges
-- 🛠️ **Building** with React, Node.js, Python, and blockchain technologies
-- 📚 **Learning** about Web3, sustainable finance, and community building
-
-## 🎯 Recent Wins
-
-- 🏆 **Solana Hackathon Winner** - Built developer tooling for parallelized NFT creation
-- 🏅 **African AT Accelerator Program Winner** - [Hali Halisi](https://halisi.io), connecting the Deaf community with interpreters
-- 🌱 **8+ years** of experience in fintech and software engineering
 
 ## 🛠️ Tech I Love Working With
 
@@ -25,17 +17,9 @@ const scott = {
   frontend: ["React", "Next.js", "Tailwind CSS"],
   backend: ["Node.js", "AWS", "MongoDB", "PostgreSQL"],
   blockchain: ["Stellar", "Solana", "Smart Contracts"],
-  tools: ["Docker", "Git", "VS Code"],
   currentFocus: "Building financial inclusion technology"
 }
 ```
-
-## 🌟 Fun Facts
-
-- 🎖️ Started my career in the Australian Defence Force
-- 🌮 Living the dream in Mexico City (the food scene here is incredible!)
-- ☕ Powered by coffee and curiosity
-- 🎯 Always up for a good conversation about tech, travel, or life
 
 ## 📫 Let's Connect!
 
